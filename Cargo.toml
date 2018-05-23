@@ -1,0 +1,9 @@
+[package]
+name = "multicaster"
+version = "0.1.0"
+authors = ["Jason Longshore <hello@jasonlongshore.com>"]
+
+[dependencies]
+clap = "2.30.0"
+futures = "0.1.14"
+tokio-core = "0.1.6"
